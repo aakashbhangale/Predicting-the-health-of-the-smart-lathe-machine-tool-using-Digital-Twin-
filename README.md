@@ -1,6 +1,7 @@
 # Predicting the health of the smart lathe machine tool using Digital Twin 
 
-1> **Purpose of the project** \n Demonstrate that manual machining equipment such as the Lathe machine can be converted into the system with smart unified connectivity components, for real-time data monitoring and anomaly detection. 
+1> **Purpose of the project**<br>
+Demonstrate that manual machining equipment such as the Lathe machine can be converted into the system with smart unified connectivity components, for real-time data monitoring and anomaly detection. 
 
 
 2> **Methodology** \n 
