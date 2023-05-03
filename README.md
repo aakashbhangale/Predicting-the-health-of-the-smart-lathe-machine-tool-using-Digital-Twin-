@@ -17,6 +17,6 @@ The sequence to build this project is divided into 5 segments:
 •	Real-time Smart Lathe Parameter monitoring 
 •	Tool Health and RUL Prediction 
 
-![image](https://user-images.githubusercontent.com/132473727/236003162-08827dbf-6dc9-4698-9730-7de062848ba4.png)
 
+![image](https://user-images.githubusercontent.com/132473727/236004050-02bc6d89-9113-484a-ab7b-b9b4a16ef60b.png)
 
